@@ -19,11 +19,12 @@ Models evaluated using **3-fold cross-validation** and **GridSearchCV** optimiza
 - Recall
 - Training time
 
-    Model  Train Time (s)  Train Accuracy  Test Accuracy  Recall
-0  Logistic Regression            8.01           0.912          0.911   0.702
-1                  KNN           31.06           0.941          0.896   0.696
-2        Decision Tree           18.14           0.909          0.909   0.771
-3           Linear SVM           11.70           0.860          0.857   0.868
+  Model                     | Train Time (s) | Train Accuracy | Test Accuracy | Recall
+  -------------------------------------------------------------------------------------
+ Logistic Regression        |      8.01      |     0.912      |     0.911     | 0.702
+ KNN                        |     31.06      |     0.941      |     0.896     | 0.696
+ Decision Tree              |     18.14      |     0.909      |     0.909     | 0.771
+ Linear SVM                 |     11.70      |     0.860      |     0.857     | 0.868
 
 
      
