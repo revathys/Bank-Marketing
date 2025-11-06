@@ -1,4 +1,4 @@
-# Mank Marketing
+# Bank Marketing
 
 # <ins> **Business Understanding** </ins>
 
