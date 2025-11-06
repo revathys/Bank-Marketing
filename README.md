@@ -16,15 +16,16 @@ Models evaluated using **3-fold cross-validation** and **GridSearchCV** optimiza
 
 **Evaluation Metrics:**
 - Accuracy
-- Recall (positive and macro)
+- Recall
 - Training time
 
-                 Model  Train Time (s)  Train Accuracy  Test Accuracy  Recall
+    Model  Train Time (s)  Train Accuracy  Test Accuracy  Recall
 0  Logistic Regression            8.01           0.912          0.911   0.702
 1                  KNN           31.06           0.941          0.896   0.696
 2        Decision Tree           18.14           0.909          0.909   0.771
 3           Linear SVM           11.70           0.860          0.857   0.868
-# <ins> **Business Recommendation** </ins>
+
+
      
 1. **Target high-probability clients** — focus marketing efforts on customers resembling prior successful subscribers (e.g., positive past campaign outcome, higher education, contacted via cellular).
 2. **Campaign Timing Optimization** — certain months (May, August) correlate with higher success; align campaigns accordingly.
